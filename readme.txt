@@ -1,0 +1,2 @@
+encoding:
+	EUC-KR
