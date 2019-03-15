@@ -10,6 +10,7 @@ Environment:
 Example:
 ***
 Init screen
+
     ![init](https://user-images.githubusercontent.com/41464934/54430889-44ec0480-4768-11e9-861d-0f6d27e701ad.JPG)
 
 Playing screen
