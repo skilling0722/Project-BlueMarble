@@ -2,10 +2,10 @@ Blue Marble Game
 ***
 
 Environment:
-***
+
     Window 10
     Java
-
+***
 
 Example:
 ***
